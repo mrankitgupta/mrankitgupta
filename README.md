@@ -27,7 +27,7 @@
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me 🔗</h3>
 <p align="left">
 <a href="https://twitter.com/Mr_AnkitGupta01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Mr_AnkitGupta01" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/mrankitgupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mrankitgupta" height="30" width="40" /></a>
@@ -42,12 +42,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrankitgupta&label=Profile%20views&color=0e75b6&style=flat" alt="mrankitgupta" /> </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages and Tools 🛠️</h3>
 <p align="left"> 
 <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> 
-<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a> 
+<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a>
+<a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a>  
 <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
+<a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="sql-server" width="40" height="40"/> </a> 
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>   
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> 
@@ -61,18 +63,24 @@
 
 <details>
 <summary>
-More stuff about me
+More stuff about me 👨‍⚖️ 👇
 </summary>
 
 <br >
-  
-<h3 align="left">Github Stats:</h3>
+
+<h3 align="left">Awards and Achievements 🏆 </h3>
+
+- Finalist of "Startup India Innovation Challenge 2018"
+
+- 1st Runner-up in Paradolia – Photography competition
+
+<h3 align="left">Github Stats 📊 </h3>
   
   ![Ankit's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrankitgupta&show_icons=true&theme=radical)
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrankitgupta&layout=compact)](https://github.com/mrankitgupta/github-readme-stats)
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mrankitgupta&" alt="mrankitgupta" /></p>
 
-<h3 align="left">Support:</h3>
+<h3 align="left">Support 👐</h3>
 <p><a href="https://www.buymeacoffee.com/mrankitgupta"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="mrankitgupta" /></a></p><br><br>
 
 <!--
