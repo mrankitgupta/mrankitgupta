@@ -8,11 +8,11 @@
 
 - 💬 Ask me about ``` var topics = [ "Python", "SQL", "NoSQL", "Analytics" ] ```
 
+- 📄 Know about my work & experiences [My Resume](https://drive.google.com/file/d/1-3sPuoCUBJTSuJ8D92l-sWMQOVEivkKq/view?usp=sharing)
+
 - 📫 How to reach me: ankitgupta3150@gmail.com
 
 - 😄 Pronouns: [Lens_Killer_Ankit](https://www.instagram.com/lens_killer_ankit) , [mrankitgupta](https://ankitgupta.bio.link/) , [Mr_AnkitGupta01](https://twitter.com/mr_ankitgupta01/)
-
-- 📄 Know about my work & experiences [My Resume](https://drive.google.com/file/d/1-3sPuoCUBJTSuJ8D92l-sWMQOVEivkKq/view?usp=sharing)
 
 - ⚡ Fun fact: :hearts: Photography :camera:, Traveling :earth_asia:, Basketball :basketball:
   
