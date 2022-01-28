@@ -1,5 +1,20 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> I'm Ankit Gupta</h1>
 
+- 👨‍💻 All about me is at [My Website](https://ankitgupta.bio.link/)
+
+- 🔭 I’m currently working on Data Analytics
+
+- 🌱 I’m currently learning Data Science
+
+- 💬 Ask me about ``` var topics = [ "Python", "SQL", "NoSQL", "Analytics" ] ```
+
+- 📫 How to reach me: ankitgupta3150@gmail.com
+
+- 😄 Pronouns: [Lens_Killer_Ankit](https://www.instagram.com/lens_killer_ankit) , [mrankitgupta](https://ankitgupta.bio.link/) , [Mr_AnkitGupta01](https://twitter.com/mr_ankitgupta01/)
+
+- 📄 Know about my work & experiences [My Resume](https://drive.google.com/file/d/1-3sPuoCUBJTSuJ8D92l-sWMQOVEivkKq/view?usp=sharing)
+
+- ⚡ Fun fact: Photography :camera:, Traveling :earth_asia: :hearts:, Basketball :basketball:
   
 <details>
 <summary>
