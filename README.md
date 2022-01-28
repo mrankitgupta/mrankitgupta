@@ -15,6 +15,9 @@
 - 😄 Pronouns: [Lens_Killer_Ankit](https://www.instagram.com/lens_killer_ankit) , [mrankitgupta](https://ankitgupta.bio.link/) , [Mr_AnkitGupta01](https://twitter.com/mr_ankitgupta01/)
 
 - ⚡ Fun fact: :hearts: Photography :camera:  Traveling :earth_asia:  Basketball :basketball:
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mrankitgupta&label=Profile%20views&color=0e75b6&style=flat" alt="mrankitgupta" /> </p>
+  
   
 <details>
 <summary>
