@@ -14,7 +14,7 @@
 
 - 😄 Pronouns: [Lens_Killer_Ankit](https://www.instagram.com/lens_killer_ankit) , [mrankitgupta](https://ankitgupta.bio.link/) , [Mr_AnkitGupta01](https://twitter.com/mr_ankitgupta01/)
 
-- ⚡ Fun fact: :hearts: Photography :camera:, Traveling :earth_asia:, Basketball :basketball:
+- ⚡ Fun fact: :hearts: Photography :camera:  Traveling :earth_asia:  Basketball :basketball:
   
 <details>
 <summary>
