@@ -1,7 +1,16 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> I'm Ankit Gupta</h1>
-<h3 align="center">
 
   
+<details>
+<summary>
+More stuff about me
+</summary>
+
+<br >
+  
+#### Github Stats
+  
+  ![Ankit's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrankitgupta&show_icons=true&theme=radical)
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrankitgupta&layout=compact)](https://github.com/mrankitgupta/github-readme-stats)
   
 <!--
