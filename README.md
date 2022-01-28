@@ -1,5 +1,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> I'm Ankit Gupta</h1>
 
+<h3 align="center">A Data Science enthusiast from India</h3>
+
 <p align="left"> <a href="https://twitter.com/Mr_AnkitGupta01/" target="blank"><img src="https://img.shields.io/twitter/follow/Mr_AnkitGupta01?logo=twitter&style=for-the-badge" alt="Mr_AnkitGupta01" /></a> </p>
 
 - 👨‍💻 All about me is at [My Website](https://ankitgupta.bio.link/)
@@ -23,8 +25,12 @@
 <a href="https://twitter.com/Mr_AnkitGupta01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Mr_AnkitGupta01" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/mrankitgupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mrankitgupta" height="30" width="40" /></a>
 <a href="https://instagram.com/Lens_Killer_Ankit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Lens_Killer_Ankit" height="30" width="40" /></a>
+<a href="https://www.behance.net/mrankitgupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="mrankitgupta" height="30" width="40" /></a>
 <a href="https://medium.com/@mrankitgupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@mrankitgupta" height="30" width="40" /></a>
+<a href="https://kaggle.com/mrankitgupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="mrankitgupta" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/mrankitgupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mrankitgupta" height="30" width="40" /></a>
 <a href="https://dev.to/mrankitgupta" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="mrankitgupta" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCTfbz-dvkBt3K5se21uj-ng" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ankit gupta" height="30" width="40" /></a>
 </p>
 
 
