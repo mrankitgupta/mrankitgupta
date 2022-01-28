@@ -18,6 +18,17 @@
 
 - ⚡ Fun fact: :hearts: Photography :camera:  Traveling :earth_asia:  Basketball :basketball:
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/Mr_AnkitGupta01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Mr_AnkitGupta01" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mrankitgupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mrankitgupta" height="30" width="40" /></a>
+<a href="https://instagram.com/Lens_Killer_Ankit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Lens_Killer_Ankit" height="30" width="40" /></a>
+<a href="https://medium.com/@mrankitgupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@mrankitgupta" height="30" width="40" /></a>
+<a href="https://dev.to/mrankitgupta" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="mrankitgupta" height="30" width="40" /></a>
+</p>
+
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrankitgupta&label=Profile%20views&color=0e75b6&style=flat" alt="mrankitgupta" /> </p>
   
 
