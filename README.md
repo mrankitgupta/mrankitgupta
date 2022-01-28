@@ -34,6 +34,7 @@
 
 <h3 align="left">Connect with me 🔗</h3>
 <p align="left">
+<a href="https://ankitgupta.bio.link" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="mrankitgupta" height="30" width="40" /></a>
 <a href="https://twitter.com/Mr_AnkitGupta01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Mr_AnkitGupta01" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/mrankitgupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mrankitgupta" height="30" width="40" /></a>
 <a href="https://instagram.com/Lens_Killer_Ankit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Lens_Killer_Ankit" height="30" width="40" /></a>
