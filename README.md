@@ -6,7 +6,6 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-mrankitgupta-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mrankitgupta/)](https://www.linkedin.com/in/mrankitgupta)
 [![Instagram Badge](https://img.shields.io/badge/-@Lens_Killer_Ankit-D7008A?style=flat-square&labelColor=D7008A&logo=Instagram&logoColor=white&link=https://www.instagram.com/Lens_Killer_Ankit/)](https://www.instagram.com/Lens_Killer_Ankit/)
-[![Website Badge](https://img.shields.io/badge/ankitgupta-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://anmolsingh.me/)](https://anmolsingh.me/)
 [![Website Badge](https://img.shields.io/badge/-ankitgupta-blueviolet?style=flat-square&logo=appveyor&logoColor=white&link=https://ankitgupta.bio.link/)](https://ankitgupta.bio.link/)
 ![GitHub Followers Badge](https://img.shields.io/github/followers/mrankitgupta?label=Follow&style=social)
 
