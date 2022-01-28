@@ -45,7 +45,6 @@
 <a href="https://www.youtube.com/channel/UCTfbz-dvkBt3K5se21uj-ng" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ankit gupta" height="30" width="40" /></a>
 </p>
 
-![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=mrankitgupta.mrankitgupta)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrankitgupta&label=Profile%20views&color=0e75b6&style=flat" alt="mrankitgupta" /> </p>
 
 <h3 align="left">Languages and Tools 🛠️</h3>
