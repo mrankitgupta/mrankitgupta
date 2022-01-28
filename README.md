@@ -14,7 +14,7 @@
 
 - 📄 Know about my work & experiences [My Resume](https://drive.google.com/file/d/1-3sPuoCUBJTSuJ8D92l-sWMQOVEivkKq/view?usp=sharing)
 
-- ⚡ Fun fact: Photography :camera:, Traveling :earth_asia: :hearts:, Basketball :basketball:
+- ⚡ Fun fact: :hearts: Photography :camera:, Traveling :earth_asia:, Basketball :basketball:
   
 <details>
 <summary>
