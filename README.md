@@ -11,6 +11,15 @@
 
 ### Liked my Contributions:question::point_right: [Nominate Me for GitHub Stars](https://stars.github.com/nominate/) :star: :sparkles:
 
+<!--
+Banner code
+<br>
+    <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
+OR
+    ![Banner](https://user-images.githubusercontent.com/29686102/122269982-7af63100-cefb-11eb-8ea0-b7a53bdf1cb9.png)
+ </abc>
+ -->
+
 - 👨‍💻 All about me is at [My Website](https://ankitgupta.bio.link/)
 
 - 🔭 I’m currently working on Data Analytics
@@ -29,6 +38,7 @@
 
 - ⚡ Fun fact: :hearts: Photography :camera:  Traveling :earth_asia:  Basketball :basketball:
 
+<h3 align="left">Wanna see my blogs:question: 📝</h3>
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
