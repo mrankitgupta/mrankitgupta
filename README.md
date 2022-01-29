@@ -38,9 +38,13 @@ OR
 
 - ⚡ Fun fact: :hearts: Photography :camera:  Traveling :earth_asia:  Basketball :basketball:
 
-<h3 align="left">Wanna see my blogs:question: 📝</h3>
+<h3 align="left">What are my featured projects:question: 📝</h3>
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
+
+<h3 align="left">Wanna see my blogs:question: 📝</h3>
+<!-- PROJECT-LIST:START -->
+<!-- PROJECT-LIST:END -->
 
 <h3 align="left">Connect with me 🔗</h3>
 <p align="left">
