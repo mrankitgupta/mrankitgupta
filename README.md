@@ -10,7 +10,6 @@
 [![Website Badge](https://img.shields.io/badge/-ankitgupta-blueviolet?style=flat-square&logo=appveyor&logoColor=white&link=https://ankitgupta.bio.link/)](https://ankitgupta.bio.link/)
 ![GitHub Followers Badge](https://img.shields.io/github/followers/mrankitgupta?label=Follow&style=social)
 
-### Liked my Contributions:question::point_right: [Nominate Me for GitHub Stars](https://stars.github.com/nominate/) :star: :sparkles:
 
 <!--
 Banner code
@@ -20,6 +19,8 @@ OR
     ![Banner](https://user-images.githubusercontent.com/29686102/122269982-7af63100-cefb-11eb-8ea0-b7a53bdf1cb9.png)
  </abc>
  -->
+
+### Liked my Contributions:question::point_right: [Nominate Me for GitHub Stars](https://stars.github.com/nominate/) :star: :sparkles:
 
 - 👨‍💻 All about me is at [My Website](https://ankitgupta.bio.link/)
 
