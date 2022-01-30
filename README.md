@@ -1,3 +1,5 @@
+<p align="center"><a href="https://ankitgupta.bio.link"><img width="80%" src="https://github.com/mrankitgupta/mrankitgupta/raw/main/gh-readme-header.png" /></a></p>
+
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> I'm Ankit Gupta</h1>
 
 <h3 align="center">A Data Science enthusiast from India  </h3>
