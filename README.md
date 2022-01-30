@@ -1,8 +1,7 @@
-<p align="center"><a href="https://ankitgupta.bio.link"><img width="80%" src="https://github.com/mrankitgupta/mrankitgupta/raw/main/gh-readme-header.png" /></a></p>
+<p <h1 align="center"><a href="https://ankitgupta.bio.link"><img width="80%" src="https://github.com/mrankitgupta/mrankitgupta/raw/main/gh-readme-header.png" /></h1></a></p>
+<h1 align="center"> </h1>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> I'm Ankit Gupta</h1>
-
-<h3 align="center">A Data Science enthusiast from India  </h3>
+<h3 align="center">A self-taught Data Science enthusiast from India</h3>
 
 <p align="left"> <a href="https://twitter.com/Mr_AnkitGupta01/" target="blank"><img src="https://img.shields.io/twitter/follow/Mr_AnkitGupta01?logo=twitter&style=for-the-badge" alt="Mr_AnkitGupta01" /></a> </p>
 
@@ -108,6 +107,8 @@ More stuff about me 👨‍⚖️ 👇
 **mrankitgupta/mrankitgupta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> I'm Ankit Gupta</h1>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
