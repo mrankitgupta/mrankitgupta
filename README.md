@@ -95,10 +95,11 @@ More stuff about me 👨‍⚖️ 👇
 - 1st Runner-up in Paradolia – Photography competition
 
 <h3 align="left">Github Stats 📊 </h3>
-  
-  ![Ankit's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrankitgupta&show_icons=true)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrankitgupta&layout=compact)](https://github.com/mrankitgupta/github-readme-stats)
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mrankitgupta&" alt="mrankitgupta" /></p>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrankitgupta&layout=compact)](https://github.com/mrankitgupta)
+
+[![Ankit's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrankitgupta)](https://github.com/mrankitgupta)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mrankitgupta&" alt="mrankitgupta" /></p>
 
 <h3 align="left">Support 👐</h3>
 <p><a href="https://www.buymeacoffee.com/mrankitgupta"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="mrankitgupta" /></a></p><br><br>
