@@ -114,6 +114,8 @@ More stuff about me 👨‍⚖️ 👇
 
 ➡️ [more blog posts...](https://ankitgupta.com)
 
+---
+
 Here are some ideas to get you started:
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> I'm Ankit Gupta</h1>
