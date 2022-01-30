@@ -52,8 +52,6 @@ OR
 
 - Data Visualization with Tableau
 
-- Data Visualization with Advanced Excel
-
 <!--
 <h3 align="left">Wanna see my blogs:question: 📝</h3>
 <!-- BLOG-POST-LIST:START -->
@@ -112,7 +110,7 @@ More stuff about me 👨‍⚖️ 👇
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrankitgupta&layout=compact)](https://github.com/mrankitgupta)
 
 [![Ankit's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrankitgupta&show_icons=true)](https://github.com/mrankitgupta)
-    <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mrankitgupta&" alt="mrankitgupta" /></p>
+    [![Ankit's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=mrankitgupta&)](https://github.com/mrankitgupta)
 
 <h3 align="left">Support 👐</h3>
 <p><a href="https://www.buymeacoffee.com/mrankitgupta"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="mrankitgupta" /></a></p><br><br>
