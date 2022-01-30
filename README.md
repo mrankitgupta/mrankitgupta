@@ -112,6 +112,8 @@ More stuff about me 👨‍⚖️ 👇
 <!--
 **mrankitgupta/mrankitgupta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+➡️ [more blog posts...](https://ankitgupta.com)
+
 Here are some ideas to get you started:
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> I'm Ankit Gupta</h1>
