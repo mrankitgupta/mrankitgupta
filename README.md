@@ -96,7 +96,7 @@ More stuff about me 👨‍⚖️ 👇
 
 <h3 align="left">Github Stats 📊 </h3>
   
-  ![Ankit's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrankitgupta&show_icons=true&theme=radical)
+  ![Ankit's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrankitgupta&show_icons=true)
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrankitgupta&layout=compact)](https://github.com/mrankitgupta/github-readme-stats)
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mrankitgupta&" alt="mrankitgupta" /></p>
 
