@@ -41,6 +41,7 @@ OR
 - ⚡ Fun fact: :hearts: Photography :camera:  Traveling :earth_asia:  Basketball :basketball:
 
 <h3 align="left">What are my featured projects:question: 👨‍💻 🛰️</h3>
+
 <code>[66daysofdata](https://github.com/mrankitgupta/66daysofdata)</code> :hourglass: 
 
 <h3 align="left">My Certifications 📜 🎓 ✔️</h3>
