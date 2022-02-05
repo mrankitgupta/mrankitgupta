@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://twitter.com/Mr_AnkitGupta01/" target="blank"><img src="https://img.shields.io/twitter/follow/Mr_AnkitGupta01?logo=twitter&style=for-the-badge" alt="Mr_AnkitGupta01" /></a> </p>
 
-[![Linkedin Badge](https://img.shields.io/badge/-mrankitgupta-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mrankitgupta/)](https://www.linkedin.com/in/mrankitgupta)
-[![Instagram Badge](https://img.shields.io/badge/-@Lens_Killer_Ankit-D7008A?style=flat-square&labelColor=D7008A&logo=Instagram&logoColor=white&link=https://www.instagram.com/Lens_Killer_Ankit/)](https://www.instagram.com/Lens_Killer_Ankit/)
-[![Website Badge](https://img.shields.io/badge/-ankitgupta-blueviolet?style=flat-square&logo=appveyor&logoColor=white&link=https://ankitgupta.bio.link/)](https://ankitgupta.bio.link/)
-![GitHub Followers Badge](https://img.shields.io/github/followers/mrankitgupta?label=Follow&style=social)
-
+<a href="mailto:ankitgupta3150@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="ankitgupta3150@gmail.com" height="20" width="85" /></a>
+<a href="https://www.linkedin.com/in/mrankitgupta" target="blank"><img align="center" src="https://img.shields.io/badge/-MrAnkitGupta-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mrankitgupta/" alt="MrAnkitGupta" height="20" width="100" /></a>
+<a href="https://www.instagram.com/Lens_Killer_Ankit/" target="blank"><img align="center" src="https://img.shields.io/badge/-@Lens_Killer_Ankit-D7008A?style=flat-square&labelColor=D7008A&logo=Instagram&logoColor=white&link=https://www.instagram.com/Lens_Killer_Ankit/" alt="Lens_Killer_Ankit" height="20" width="110" /></a>
+<a href="https://ankitgupta.bio.link/" target="blank"><img align="center" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white&link=https://ankitgupta.bio.link/" alt="AnkitGupta" height="20" width="90" /></a>
+<a href="https://github.com/mrankitgupta/" target="blank"><img align="center" src="https://img.shields.io/github/followers/mrankitgupta?label=Follow&style=social&link=https://github.com/mrankitgupta/" alt="MrAnkitGupta" height="20" width="90" /></a>
 
 <!--
 Banner code
@@ -134,7 +134,10 @@ More stuff about me 👨‍⚖️ 👇
 Here are some ideas to get you started:
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> I'm Ankit Gupta</h1>
+
 [![Ankit's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=mrankitgupta&)](https://github.com/mrankitgupta)
+
+[![Website Badge](https://img.shields.io/badge/-ankitgupta-blueviolet?style=flat-square&logo=appveyor&logoColor=white&link=https://ankitgupta.bio.link/)](https://ankitgupta.bio.link/)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
