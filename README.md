@@ -42,7 +42,7 @@ OR
 
 <h3 align="left">What are my featured projects:question: 👨‍💻 🛰️</h3>
 
-<code>[66daysofdata](https://github.com/mrankitgupta/66daysofdata)</code> :hourglass: 
+<code>[66DaysOfData in Data Analytics](https://github.com/mrankitgupta/66DaysOfData)</code> :hourglass: 
 
 <h3 align="left">My Certifications 📜 🎓 ✔️</h3>
 
