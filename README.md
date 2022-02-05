@@ -40,10 +40,8 @@ OR
 
 - ⚡ Fun fact: :hearts: Photography :camera:  Traveling :earth_asia:  Basketball :basketball:
 
-<!--
-<h3 align="left">What are my featured projects❓🚀:question: 📝</h3>
-<!-- PROJECT-LIST:START -->
-<!-- PROJECT-LIST-LIST:END -->
+<h3 align="left">What are my featured projects:question: 👨‍💻 🛰️</h3>
+<code>[100DaysOfCode](https://github.com/mrankitgupta/66daysofdata)</code> :hourglass: 
 
 <h3 align="left">My Certifications 📜 🎓 ✔️</h3>
 
@@ -113,9 +111,7 @@ More stuff about me 👨‍⚖️ 👇
 <h3 align="left">Github Stats 📊 </h3>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrankitgupta&layout=compact)](https://github.com/mrankitgupta)
-
 [![Ankit's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrankitgupta&show_icons=true)](https://github.com/mrankitgupta)
-    [![Ankit's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=mrankitgupta&)](https://github.com/mrankitgupta)
 
 <h3 align="left">Support 👐</h3>
 <p><a href="https://www.buymeacoffee.com/mrankitgupta"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="mrankitgupta" /></a></p><br><br>
@@ -136,6 +132,7 @@ More stuff about me 👨‍⚖️ 👇
 Here are some ideas to get you started:
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> I'm Ankit Gupta</h1>
+[![Ankit's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=mrankitgupta&)](https://github.com/mrankitgupta)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
