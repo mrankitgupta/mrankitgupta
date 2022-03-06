@@ -20,7 +20,7 @@ OR
  </abc>
  -->
 
-### Liked my Contributions:question::point_right: [Nominate Me for GitHub Stars](https://stars.github.com/nominate/) :star: :sparkles:
+### Liked my Contributions:question:[Follow Me](https://github.com/mrankitgupta/):point_right: [Nominate Me for GitHub Stars](https://stars.github.com/nominate/) :star: :sparkles:
 
 - 👨‍💻 All about me is at [My Website](https://ankitgupta.bio.link/)
 
