@@ -55,6 +55,7 @@ OR
 <!--
 <h3 align="left">Wanna see my blogs:question: 📝</h3>
 <!-- BLOG-POST-LIST:START -->
+- [What is Blockchain &amp; Cryptocurrency?](https://medium.com/@mrankitgupta/what-is-blockchain-cryptocurrency-a9ca7f313880?source=rss-3dd1d9aa07e4------2)
 <!-- BLOG-POST-LIST:END -->
  
 <h3 align="left">Connect with me 🔗</h3>
