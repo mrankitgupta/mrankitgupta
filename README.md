@@ -55,6 +55,7 @@ OR
 <!--
 <h3 align="left">Wanna see my blogs:question: 📝</h3>
 <!-- BLOG-POST-LIST:START -->
+- [Before investing in cryptocurrency, know about the tax on it in India](https://mrankitgupta.medium.com/before-investing-in-cryptocurrency-know-about-the-tax-on-it-in-india-62e5ae378efc?source=rss-3dd1d9aa07e4------2)
 - [What is Blockchain &amp; Cryptocurrency?](https://mrankitgupta.medium.com/what-is-blockchain-cryptocurrency-a9ca7f313880?source=rss-3dd1d9aa07e4------2)
 <!-- BLOG-POST-LIST:END -->
  
