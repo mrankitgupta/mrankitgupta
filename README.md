@@ -54,9 +54,9 @@ OR
 
 <!--
 <h3 align="left">Wanna see my blogs:question: 📝</h3>
-<!-- BLOG-POST-LIST:START -->
+<!-- BLO-POST-LIST:START -->
 
-<!-- BLOG-POST-LIST:END -->
+<!-- BLO-POST-LIST:END -->
  
 <h3 align="left">Connect with me 🔗</h3>
 <p align="left">
