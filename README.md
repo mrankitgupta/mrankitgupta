@@ -55,9 +55,7 @@ OR
 <!--
 <h3 align="left">Wanna see my blogs:question: 📝</h3>
 <!-- BLOG-POST-LIST:START -->
-- [22 easy Earning options for College students](https://mrankitgupta.medium.com/22-easy-earning-options-for-college-students-35a9c1e182ad?source=rss-3dd1d9aa07e4------2)
-- [Before investing in cryptocurrency, know about the tax on it in India](https://mrankitgupta.medium.com/before-investing-in-cryptocurrency-know-about-the-tax-on-it-in-india-62e5ae378efc?source=rss-3dd1d9aa07e4------2)
-- [What is Blockchain &amp; Cryptocurrency?](https://mrankitgupta.medium.com/what-is-blockchain-cryptocurrency-a9ca7f313880?source=rss-3dd1d9aa07e4------2)
+
 <!-- BLOG-POST-LIST:END -->
  
 <h3 align="left">Connect with me 🔗</h3>
@@ -112,6 +110,15 @@ More stuff about me 👨‍⚖️ 👇
 - Finalist of "Startup India Innovation Challenge 2018"
 
 - 1st Runner-up in Paradolia – Photography competition
+
+<h3 align="left">Wanna see my blogs on Medium:question: 📝</h3>
+<!--
+
+<!-- BLOG-POST-LIST:START -->
+- [22 easy Earning options for College students](https://mrankitgupta.medium.com/22-easy-earning-options-for-college-students-35a9c1e182ad?source=rss-3dd1d9aa07e4------2)
+- [Before investing in cryptocurrency, know about the tax on it in India](https://mrankitgupta.medium.com/before-investing-in-cryptocurrency-know-about-the-tax-on-it-in-india-62e5ae378efc?source=rss-3dd1d9aa07e4------2)
+- [What is Blockchain &amp; Cryptocurrency?](https://mrankitgupta.medium.com/what-is-blockchain-cryptocurrency-a9ca7f313880?source=rss-3dd1d9aa07e4------2)
+<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Github Stats 📊 </h3>
 
