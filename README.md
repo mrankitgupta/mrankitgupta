@@ -1,4 +1,4 @@
-<p <h1 align="center"><a href="https://ankitgupta.bio.link"><img width="80%" src="https://github.com/mrankitgupta/mrankitgupta/blob/main/github-header-image.png" height="180" width="200" /></h1></a></p>
+<p <h1 align="center"><a href="https://ankitgupta.bio.link"><img width="80%" src="https://github.com/mrankitgupta/mrankitgupta/blob/main/github-header-image%20new.png" /></h1></a></p>
 <h1 align="center"> </h1>
 
 <h3 align="center">A self-taught Data Science enthusiast from India</h3>
