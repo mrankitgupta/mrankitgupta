@@ -115,11 +115,11 @@ More stuff about me 👨‍⚖️ 👇
 <!--
 
 <!-- BLOG-POST-LIST:START -->
+- [How Financial Institutions works in India?](https://mrankitgupta.medium.com/how-financial-institutions-works-in-india-b72a36aaaf8e?source=rss-3dd1d9aa07e4------2)
 - [Why tax on cryptocurrency is so high?](https://mrankitgupta.medium.com/why-tax-on-cryptocurrency-is-so-high-a318d81d9480?source=rss-3dd1d9aa07e4------2)
 - [State with Highest Solar Energy Potential in India](https://mrankitgupta.medium.com/state-with-highest-solar-energy-potential-in-india-c67fb16c161d?source=rss-3dd1d9aa07e4------2)
 - [9 Benefits of Why you should switch to Solar Energy](https://mrankitgupta.medium.com/9-benefits-of-why-you-should-switch-to-solar-energy-d955f351eabe?source=rss-3dd1d9aa07e4------2)
 - [22 easy Earning options for College students](https://mrankitgupta.medium.com/22-easy-earning-options-for-college-students-35a9c1e182ad?source=rss-3dd1d9aa07e4------2)
-- [Before investing in cryptocurrency, know about the tax on it in India](https://mrankitgupta.medium.com/before-investing-in-cryptocurrency-know-about-the-tax-on-it-in-india-62e5ae378efc?source=rss-3dd1d9aa07e4------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Github Stats 📊 </h3>
