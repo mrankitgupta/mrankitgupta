@@ -3,7 +3,7 @@
 
 <h3 align="center">A self-taught Data Science enthusiast from India</h3>
 
-<p align="left"> <a href="https://twitter.com/Mr_AnkitGupta01/" target="blank"><img src="https://img.shields.io/twitter/follow/Mr_AnkitGupta01?logo=twitter&style=for-the-badge" alt="Mr_AnkitGupta01" /></a> </p>
+<p align="left"> <a href="https://twitter.com/MrAnkitGupta_" target="blank"><img src="https://img.shields.io/twitter/follow/MrAnkitGupta_?logo=twitter&style=for-the-badge" alt="MrAnkitGupta_" /></a> </p>
 
 <a href="mailto:ankitgupta3150@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="ankitgupta3150@gmail.com" height="20" width="85" /></a>
 <a href="https://www.linkedin.com/in/mrankitgupta" target="blank"><img align="center" src="https://img.shields.io/badge/-MrAnkitGupta-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mrankitgupta/" alt="MrAnkitGupta" height="20" width="100" /></a>
@@ -61,7 +61,7 @@ OR
 <h3 align="left">Connect with me 🔗</h3>
 <p align="left">
 <a href="https://ankitgupta.bio.link" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="mrankitgupta" height="30" width="40" /></a>
-<a href="https://twitter.com/Mr_AnkitGupta01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Mr_AnkitGupta01" height="30" width="40" /></a>
+<a href="https://twitter.com/MrAnkitGupta_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="MrAnkitGupta_" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/mrankitgupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mrankitgupta" height="30" width="40" /></a>
 <a href="https://instagram.com/Lens_Killer_Ankit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Lens_Killer_Ankit" height="30" width="40" /></a>
 <a href="https://www.quora.com/profile/Ankit-Gupta-1154" target="blank"><img align="center" src="https://raw.githubusercontent.com/mrankitgupta/mrankitgupta/9a416e5bb1093b13204a0e47d7f7fb3af2c39028/quora-logo-2439.svg" alt="Ankit-Gupta-1154" height="30" width="40" /></a>
