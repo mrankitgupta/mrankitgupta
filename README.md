@@ -36,7 +36,7 @@ OR
 
 - 📫 How to reach me: ankitgupta3150@gmail.com
 
-- 😄 Pronouns: [Lens_Killer_Ankit](https://www.instagram.com/lens_killer_ankit) , [mrankitgupta](https://ankitgupta.bio.link/) , [Mr_AnkitGupta01](https://twitter.com/mr_ankitgupta01/)
+- 😄 Pronouns: [Lens_Killer_Ankit](https://www.instagram.com/lens_killer_ankit) , [AnkitGupta](https://ankitgupta.bio.link/), [MrAnkitGupta](https://twitter.com/MrAnkitGupta_)
 
 - ⚡ Fun fact: :hearts: Photography :camera:  Traveling :earth_asia:  Basketball :basketball:
 
