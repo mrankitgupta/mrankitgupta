@@ -7,7 +7,7 @@
 
 <a href="mailto:ankitgupta3150@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="ankitgupta3150@gmail.com" height="20" width="85" /></a>
 <a href="https://www.linkedin.com/in/mrankitgupta" target="blank"><img align="center" src="https://img.shields.io/badge/-MrAnkitGupta-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mrankitgupta/" alt="MrAnkitGupta" height="20" width="100" /></a>
-<a href="https://www.instagram.com/Lens_Killer_Ankit/" target="blank"><img align="center" src="https://img.shields.io/badge/-@Lens_Killer_Ankit-D7008A?style=flat-square&labelColor=D7008A&logo=Instagram&logoColor=white&link=https://www.instagram.com/Lens_Killer_Ankit/" alt="Lens_Killer_Ankit" height="20" width="110" /></a>
+<a href="https://www.instagram.com/MrAnkitGupta_/" target="blank"><img align="center" src="https://img.shields.io/badge/-@MrAnkitGupta_-D7008A?style=flat-square&labelColor=D7008A&logo=Instagram&logoColor=white&link=https://www.instagram.com/MrAnkitGupta_/" alt="MrAnkitGupta_" height="20" width="110" /></a>
 <a href="https://ankitgupta.bio.link/" target="blank"><img align="center" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white&link=https://ankitgupta.bio.link/" alt="AnkitGupta" height="20" width="90" /></a>
 <a href="https://github.com/mrankitgupta/" target="blank"><img align="center" src="https://img.shields.io/github/followers/mrankitgupta?label=Follow&style=social&link=https://github.com/mrankitgupta/" alt="MrAnkitGupta" height="20" width="90" /></a>
 
@@ -36,7 +36,7 @@ OR
 
 - 📫 How to reach me: ankitgupta3150@gmail.com
 
-- 😄 Pronouns: [Lens_Killer_Ankit](https://www.instagram.com/lens_killer_ankit) , [AnkitGupta](https://ankitgupta.bio.link/), [MrAnkitGupta](https://twitter.com/MrAnkitGupta_)
+- 😄 Pronouns: [MrAnkitGupta_](https://www.instagram.com/lens_killer_ankit) , [AnkitGupta](https://ankitgupta.bio.link/)
 
 - ⚡ Fun fact: :hearts: Photography :camera:  Traveling :earth_asia:  Basketball :basketball:
 
@@ -63,7 +63,7 @@ OR
 <a href="https://ankitgupta.bio.link" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="mrankitgupta" height="30" width="40" /></a>
 <a href="https://twitter.com/MrAnkitGupta_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="MrAnkitGupta_" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/mrankitgupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mrankitgupta" height="30" width="40" /></a>
-<a href="https://instagram.com/Lens_Killer_Ankit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Lens_Killer_Ankit" height="30" width="40" /></a>
+<a href="https://instagram.com/MrAnkitGupta_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="MrAnkitGupta_" height="30" width="40" /></a>
 <a href="https://www.quora.com/profile/Ankit-Gupta-1154" target="blank"><img align="center" src="https://raw.githubusercontent.com/mrankitgupta/mrankitgupta/9a416e5bb1093b13204a0e47d7f7fb3af2c39028/quora-logo-2439.svg" alt="Ankit-Gupta-1154" height="30" width="40" /></a>
 <a href="https://www.behance.net/mrankitgupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="mrankitgupta" height="30" width="40" /></a>
 <a href="https://medium.com/@mrankitgupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@mrankitgupta" height="30" width="40" /></a>
