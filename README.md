@@ -115,11 +115,11 @@ More stuff about me 👨‍⚖️ 👇
 <!--
 
 <!-- BLOG-POST-LIST:START -->
+- [Decoding Elon Musk’s 9.2% stake in Twitter](https://mrankitgupta.medium.com/decoding-elon-musks-9-2-stake-in-twitter-b696cd7edc05?source=rss-3dd1d9aa07e4------2)
 - [How to become a Machine Learning Engineer?](https://mrankitgupta.medium.com/how-to-become-a-machine-learning-engineer-3ff083c9571?source=rss-3dd1d9aa07e4------2)
 - [Which branch of engineering is in most demand ? &lpar;Must read before admission into Engineering&rpar;](https://mrankitgupta.medium.com/which-branch-of-engineering-is-in-most-demand-must-read-before-admission-into-engineering-911f0e59c0e5?source=rss-3dd1d9aa07e4------2)
 - [How Science and Technology is impacting our Society?](https://mrankitgupta.medium.com/how-science-and-technology-is-impacting-our-society-b43f50722ecb?source=rss-3dd1d9aa07e4------2)
 - [How Financial Institutions works in India?](https://mrankitgupta.medium.com/how-financial-institutions-works-in-india-b72a36aaaf8e?source=rss-3dd1d9aa07e4------2)
-- [Why tax on cryptocurrency is so high?](https://mrankitgupta.medium.com/why-tax-on-cryptocurrency-is-so-high-a318d81d9480?source=rss-3dd1d9aa07e4------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Github Stats 📊 </h3>
