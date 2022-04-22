@@ -52,11 +52,11 @@ OR
 
 <h3 align="left">My Certifications 📜 🎓 ✔️</h3>
 
-- [Databases and SQL for Data Science with Python](https://github.com/mrankitgupta) - by IBM
-
 - [Data Analysis](https://github.com/mrankitgupta) & [Data Visualization with Python](https://github.com/mrankitgupta) - by IBM
 
 - [Pandas](https://www.kaggle.com/learn/certification/mrankitgupta/pandas) - by Kaggle, [Numpy](https://olympus1.mygreatlearning.com/course_certificate/IQVNJSIN) & [Matplotlib](https://olympus1.mygreatlearning.com/course_certificate/RNVTUIMW) - by Great Learning
+
+- [Databases and SQL for Data Science with Python](https://github.com/mrankitgupta) - by IBM
 
 - [Statistics for Data Science with Python](https://www.credly.com/badges/354576a0-b672-4245-8cad-82dc3f3df76f/public_url) - by IBM
 
