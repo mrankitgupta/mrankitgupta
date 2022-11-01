@@ -82,18 +82,25 @@ OR
  
 <h3 align="left">Connect with me 🔗</h3>
 <p align="left">
-<a href="https://ankitgupta.bio.link" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="mrankitgupta" height="30" width="40" /></a>
+<a href="https://ankitgupta.bio.link" target="blank"><img align="center" src="https://github.com/mrankitgupta/mrankitgupta/blob/main/images/Website.svg" alt="AnkitGupta" height="30" width="40" /></a>
 <a href="https://twitter.com/MrAnkitGupta_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="MrAnkitGupta_" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mrankitgupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mrankitgupta" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mrankitgupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="MrAnkitGupta" height="30" width="40" /></a>
 <a href="https://instagram.com/MrAnkitGupta_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="MrAnkitGupta_" height="30" width="40" /></a>
-<a href="https://kaggle.com/mrankitgupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="mrankitgupta" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/mrankitgupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mrankitgupta" height="30" width="40" /></a>
 <a href="https://medium.com/@mrankitgupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@mrankitgupta" height="30" width="40" /></a>
-<a href="https://dev.to/mrankitgupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="mrankitgupta" height="30" width="40" /></a>
+<a href="https://dev.to/mrankitgupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="MrAnkitGupta" height="30" width="40" /></a>
+<a href="https://leetcode.com/MrAnkitGupta_" target="blank"><img align="center" src="https://github.com/mrankitgupta/mrankitgupta/blob/main/images/leetcode.svg" alt="MrAnkitGupta_" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/MrAnkitGupta" target="blank"><img align="center" src="https://github.com/mrankitgupta/mrankitgupta/blob/main/images/icons8-codechef.svg" alt="MrAnkitGupta" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/MrAnkitGupta/" target="blank"><img align="center" src="https://github.com/mrankitgupta/mrankitgupta/blob/main/images/icons8-geeksforgeeks.svg" alt="MrAnkitGupta" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/MrAnkitGupta" target="blank"><img align="center" src="https://github.com/mrankitgupta/mrankitgupta/blob/main/images/code-forces.svg" alt="MrAnkitGupta" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/MrAnkitGupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="MrAnkitGupta" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/18028448/ankit-gupta" target="blank"><img align="center" src="https://github.com/mrankitgupta/mrankitgupta/blob/main/images/stack-overflow.svg" alt="18028448/Ankit-Gupta" height="30" width="40" /></a>
+<a href="https://kaggle.com/mrankitgupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="mrankitgupta" height="30" width="40" /></a>
+<a href="https://in.pinterest.com/mrankitgupta_" target="blank"><img align="center" src="https://github.com/mrankitgupta/mrankitgupta/blob/main/images/Pinterest.svg" alt="mrankitgupta_" height="30" width="40" /></a>
 <a href="https://www.quora.com/profile/Ankit-Gupta-1154" target="blank"><img align="center" src="https://raw.githubusercontent.com/mrankitgupta/mrankitgupta/9a416e5bb1093b13204a0e47d7f7fb3af2c39028/quora-logo-2439.svg" alt="Ankit-Gupta-1154" height="30" width="40" /></a>
 <a href="https://www.behance.net/mrankitgupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="mrankitgupta" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCTfbz-dvkBt3K5se21uj-ng" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ankit gupta" height="30" width="40" /></a>
 </p>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrankitgupta&label=Profile%20views&color=0e75b6&style=flat" alt="mrankitgupta" /> </p>
 
