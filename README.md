@@ -1,9 +1,8 @@
 <p <h1 align="center"><a href="https://ankitgupta.bio.link"><img width="80%" src="https://github.com/mrankitgupta/mrankitgupta/blob/main/github-header-image.png" /></h1></a></p>
 <h1 align="center"> </h1>
 
-<h3 align="center">A self-taught Data Science Enthusiast from India</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mrankitgupta&label=Profile%20views&color=0e75b6&style=flat" alt="mrankitgupta" /> </p>
+<h3 align="center">A self-taught Data Science Enthusiast from India </h3>
+<h3 align="center"> Data Analyst at Kapitus</h3>
 
 <p align="left"> <a href="https://twitter.com/MrAnkitGupta_" target="blank"><img src="https://img.shields.io/twitter/follow/MrAnkitGupta_?logo=twitter&style=for-the-badge" alt="MrAnkitGupta_" /></a> </p>
 
@@ -30,6 +29,8 @@ OR
 
 - 🛩️ Exploring Data Science, Machine Learning & Artificial Intelligence 
 
+- 📝 Sometimes I write articles on [Medium](https://medium.com/@mrankitgupta)
+
 - 🏆 Finalist of "Startup India Innovation Challenge 2018"
 
 - 💬 Ask me about ``` var topics = [ "Python", "SQL", "Statistics", "Tableau", "Data Analytics" ] ```
@@ -37,8 +38,6 @@ OR
 - 📄 Know about my work & experiences [My Resume](https://drive.google.com/file/d/1-3sPuoCUBJTSuJ8D92l-sWMQOVEivkKq/view?usp=sharing)
 
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/MrAnkitGupta) / [Twitter](https://twitter.com/MrAnkitGupta_)
-
-- 😄 Pronouns: [MrAnkitGupta_](https://www.instagram.com/lens_killer_ankit) , [AnkitGupta](https://ankitgupta.bio.link/)
 
 - ⚡ Fun fact: :hearts: Photography :camera:  Traveling :earth_asia:  Basketball :basketball:
 
