@@ -23,7 +23,7 @@ OR
 
 ### Liked my Contributions:question:[Follow Me](https://github.com/mrankitgupta/):point_right: [Nominate Me for GitHub Stars](https://stars.github.com/nominate/) :star: :sparkles:
 
-- 👨‍💻 All about me is at [My Website](https://ankitgupta.bio.link/)
+- 👨‍💻 All about me is at [My Website](https://bio.link/AnkitGupta)
 
 - 🔭 I’m currently working on Data Analytics, Python, Big Data & Statistics
 
@@ -81,7 +81,7 @@ OR
  
 <h3 align="left">Connect with me 🔗</h3>
 <p align="left">
-<a href="https://ankitgupta.bio.link" target="blank"><img align="center" src="https://github.com/mrankitgupta/mrankitgupta/blob/main/images/Website.svg" alt="AnkitGupta" height="30" width="40" /></a>
+<a href="https://bio.link/AnkitGupta" target="blank"><img align="center" src="https://github.com/mrankitgupta/mrankitgupta/blob/main/images/Website.svg" alt="AnkitGupta" height="30" width="40" /></a>
 <a href="https://twitter.com/MrAnkitGupta_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="MrAnkitGupta_" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/mrankitgupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="MrAnkitGupta" height="30" width="40" /></a>
 <a href="https://instagram.com/MrAnkitGupta_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="MrAnkitGupta_" height="30" width="40" /></a>
