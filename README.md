@@ -35,9 +35,9 @@ OR
 
 - 💬 Ask me about ``` var topics = [ "Python", "SQL", "Statistics", "Tableau", "Data Analytics" ] ```
 
-- 📄 Know about my work & experiences [My Resume](https://drive.google.com/file/d/1-3sPuoCUBJTSuJ8D92l-sWMQOVEivkKq/view?usp=sharing)
+- 📄 Know about my work & experiences [My Resume](https://www.linkedin.com/in/MrAnkitGupta)
 
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/MrAnkitGupta) / [Twitter](https://twitter.com/MrAnkitGupta_)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/MrAnkitGupta) / [Twitter](https://twitter.com/MrAnkitGupta_) / [Instagram](www.instagram.com/MrAnkitGupta_)
 
 - ⚡ Fun fact: :hearts: Photography :camera:  Traveling :earth_asia:  Basketball :basketball:
 
