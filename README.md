@@ -29,9 +29,9 @@ OR
 
 - 👨‍💻 All about me is at [My Website](https://bio.link/AnkitGupta)
 
-- 🔭 I’m currently working on Data Analytics, Python, Big Data & Statistics
+- 🔭 I’m currently working on Data Analytics, Python, Machine Learning & Statistics
 
-- 🛩️ Exploring Data Science, Machine Learning & Artificial Intelligence 
+- 🛩️ Exploring Data Science, NLP, Deep Learning & Artificial Intelligence 
 
 - 📝 Sometimes I write articles on [Medium](https://medium.com/@mrankitgupta)
 
